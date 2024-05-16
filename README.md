@@ -2,7 +2,7 @@
 
 # Yasaswini Kancherla
 
-🔗 [LinkedIn](https://www.linkedin.com/in/yasaswini-kancherla) | 📞+1 5736473936 | ✉️ yasaswinikancherla1@gmail.com | [GitHub](https://github.com/YasaswiniKancherla)
+🔗 [LinkedIn](https://www.linkedin.com/in/yasaswinikancherla) | 📞+1 5736473936 | ✉️ yasaswinikancherla1@gmail.com | [GitHub](https://github.com/YasaswiniKancherla)
 
 Computer Science Master's candidate with a strong Practice in Cloud Computing and Full Stack development.
 
